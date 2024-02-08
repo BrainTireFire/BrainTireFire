@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, my name is Maciej Kawęcki</h1>
 <h3 align="center">I am a full-stack developer and a Computer Science student at the Polish-Japanese Academy of Information Technology. Each day, I dedicate time to learning new technologies, crafting software, and developing both small and large-scale applications. On top of my passion for coding, I love any sports. Whether it's surfing, skateboarding, basketball, climbing, or any other physical activity, I find joy and excitement in staying active and pushing my limits.</h3>
 <br>
-<img align="right" alt="Coding" width="310" src="giphy.gif">
 
 - 📫 How to reach me **kaweckimaciej12@gmail.com**
 
