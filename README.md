@@ -1,5 +1,5 @@
 [![MasterHead](banner.jpg)](banner.jpg)
-<h1 align="center">Hi 👋, I'm Maciej Kawęcki</h1> <h3 align="center">Passionate Full-Stack Developer & Computer Science Student</h3> <p align="center"> I am a dedicated full-stack developer and a Computer Science student at the Polish-Japanese Academy of Information Technology. I thrive on learning new technologies and building innovative software solutions. My journey involves creating both small and large-scale applications. Besides coding, I am an avid sports enthusiast, enjoying activities like surfing, skateboarding, basketball, and climbing. I love pushing my limits and staying active. </p> <br>
+<h1 align="center">Hi 👋, I'm Maciej Kawęcki</h1> <h3 align="center">Passionate Full-Stack Developer & Computer Science Student</h3> <p align="center"> I am a dedicated full-stack developer with over 5 years of experience, currently pursuing a degree in Computer Science at the Polish-Japanese Academy of Information Technology. I thrive on learning new technologies and building innovative software solutions. My journey involves creating both small and large-scale applications. Besides coding, I am an avid sports enthusiast, enjoying activities like surfing, skateboarding, basketball, and climbing. I love pushing my limits and staying active. </p> <br>
 
 - 📫 Reach me at: **kaweckimaciej12@gmail.com**
 
